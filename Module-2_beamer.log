@@ -1,0 +1,15 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.15)  17 MAY 2024 12:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Module-2_beamer.tex
+(Module-2_beamer.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-04-11>
+
+
+! Sorry, but C:\Users\sebas\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe did not succeed.
+
+! The log file hopefully contains the information to get MiKTeX going again:
+
+!   C:\Users\sebas\AppData\Local\MiKTeX\miktex\log\pdflatex.log
